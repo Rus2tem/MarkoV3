@@ -79,7 +79,7 @@ font-family: 'Open Sans', sans-serif; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0px 4px 21px -1px rgba(32, 55, 72, 0.13);
+    box-shadow: 0px 10px 29px -1px rgba(0, 0, 0, 0.669);
 }
 
 .header__logo--link {}
